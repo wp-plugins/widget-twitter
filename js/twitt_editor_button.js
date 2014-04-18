@@ -17,7 +17,8 @@
 			} );
             ed.addButton('twitt_mce', {
             title : 'Insert Widget Twitter',
-			cmd : 'mcetwitt_mce',			
+			cmd : 'mcetwitt_mce',
+            image : twitt_plugin_url + '/images/widget-twitter_edit_but.png'			
             });
         }
     });

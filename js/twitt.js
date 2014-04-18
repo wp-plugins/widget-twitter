@@ -285,8 +285,7 @@ function insert_twitt() {
     else {
 		var twitt_id;
 		twitt_id='[Widget_Twitter id="'+document.getElementById('Widget_Twitter').value+'"]';
-		window.tinyMCE.execInstanceCommand('content', 'mceInsertContent', false, twitt_id);
-		tinyMCEPopup.editor.execCommand('mceRepaint');
+		window.tinyMCE.execCommand('mceInsertContent', false, twitt_id);
 		tinyMCEPopup.close();		
     }		
 }	
