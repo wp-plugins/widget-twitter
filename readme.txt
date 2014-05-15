@@ -14,19 +14,22 @@ The Widget Twitter plugin lets you to fully integrate your WordPress site with y
     
 ### [WordPress Widget Twitter plugin](http://web-dorado.com/products/wordpress-twitter-integration-plugin.html)        
     
-The Widget Twitter plugin lets you to fully integrate your WordPress site with your Twitter account. Users will be able to stay tuned to your Twitter page through your website. They will have the chance to follow you and share stories with their followers.      
-Widget Twitter plugin allows you to add Twitter buttons (Tweet, Follow, Mention, Hashtag) to your posts and pages. In addition, the plugin allows displaying your Twitter timeline on your WordPress site.      
-The plugin options allow customizing the basic features of the buttons, such as width and height, color, language and more.  It gives the possibility to make changes among the functionality of the plugin as well.      
-The plugin has a user-friendly design and it’s very easy to use; just a few clicks for managing the features. The tools and features have detailed descriptions and references in the documentation, which lets the users to get fully acquainted with the product.      
+The Widget Twitter plugin is the best feature for fully integrating Twitter with your WordPress website.  The website users will be able to stay tuned to your Twitter account through your website. They will have the chance to follow you and share stories with their followers, highlighting the best stories in your website and spreading the awareness in Twitter.   
+Widget Twitter plugin allows you to add different Twitter buttons (Tweet, Follow, Mention, Hashtag) to your posts and pages. Twitter widget can also be used as a widget to be displayed for all pages.    
+At the same time, the plugin allows displaying diverse Twitter timelines on your WordPress site within its commercial version. This will be an additional opportunity for you Twitter account to gain more followers.  There is a possibility of displaying the timeline within light and dark color schemes to best fit your website.   
+The plugin options allow customizing the basic features of the buttons, such as Twitter button width and height, positioning and more. 
+The translation of the widget can be easily made using display language feature included in the pack.    
+The Widget Twitter has a user-friendly design and it’s very easy to use; just a few clicks for managing the features. The tools and features have detailed descriptions and references in the documentation, which allows the users to get fully acquainted with the product.   
+      
     
       
-### The basic features of Widget Twitter are:      
+### The basic features of Widget Twitter include:     
       
 *   “Tweet” button for sharing posts and pages on Twitter      
 *   “Follow” button, that allows the visitors to follow your Twitter page right from your website      
-*   “Hashtag” button, to use the specific keyword-oriented webpage sharing      
-*   “Mention” button, to use the Twitter user-oriented webpage sharing      
-*   Option to add and display not only a user timeline, but favorites, list and search as well      
+*   “Hashtag” button, to share the website content in Twitter within specific hash tag.     
+*   “Mention” button, to share the website content with specific Twitter user    
+*   Possibility to display User, Favorites, Lists and Search timelines (commercial version)     
     
 == Installation ==        
     
