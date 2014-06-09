@@ -26,7 +26,7 @@ The Widget Twitter has a user-friendly design and it’s very easy to use; just 
 ### The basic features of Widget Twitter include:     
       
 *   “Tweet” button for sharing posts and pages on Twitter      
-*   “Follow” button, that allows the visitors to follow your Twitter page right from your website      
+*   “Follow” button, that allows the visitors to follow your Twitter page right from your website       
 *   “Hashtag” button, to share the website content in Twitter within specific hash tag.     
 *   “Mention” button, to share the website content with specific Twitter user    
 *   Possibility to display User, Favorites, Lists and Search timelines (commercial version)     
