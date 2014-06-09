@@ -1,4 +1,4 @@
-=== Twitter Integration ===    
+=== Widget Twitter ===    
 Contributors: webdorado    
 Donate link: http://web-dorado.com/products/wordpress-twitter-integration-plugin.html    
 Tags: twitter, twitter share, twitter share button, twitter button, twitter search , twitter plugin , twitter feed , twitter cards , twitter-followers, twitter sidebar , twitter widget, dynamic twitter widget , twitter tools , twitter list , twitter follow , twitter follow button, twitter post, twitter api, twitter favorites, tweets, wordPress twitter, twitter timeline, twitter shortcode, feed, latest tweets, twitter connect, publish to twitter, twitter badge, follow me, follow us, twitter hashtag,  share buttons, sharebar, sidebar, social, social network, social bookmark, social bookmarking, social media auto publish, social media publishing, social network auto publish, Social Plugins, social profiles, social share, social sidebar, social media    
@@ -26,7 +26,7 @@ The Widget Twitter has a user-friendly design and it’s very easy to use; just 
 ### The basic features of Widget Twitter include:     
       
 *   “Tweet” button for sharing posts and pages on Twitter      
-*   “Follow” button, that allows the visitors to follow your Twitter page right from your website      
+*   “Follow” button, that allows the visitors to follow your Twitter page right from your website       
 *   “Hashtag” button, to share the website content in Twitter within specific hash tag.     
 *   “Mention” button, to share the website content with specific Twitter user    
 *   Possibility to display User, Favorites, Lists and Search timelines (commercial version)     
