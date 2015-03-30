@@ -11,6 +11,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 The Widget Twitter plugin lets you to fully integrate your WordPress site with your Twitter account.      
     
 == Description ==        
+Fully integrate your website with your Twitter account! You can easily customize both the appearance and functionality of the plugin.   
+
 [WordPress Widget Twitter plugin](http://web-dorado.com/products/wordpress-twitter-integration-plugin.html)        
     
 The Widget Twitter plugin is the best feature for fully integrating Twitter with your WordPress website.  The website users will be able to stay tuned to your Twitter account through your website. They will have the chance to follow you and share stories with their followers, highlighting the best stories in your website and spreading the awareness in Twitter.   
