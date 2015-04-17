@@ -39,7 +39,7 @@ class WDTIModelTwitter_integration {
       $row = $wpdb->get_row($wpdb->prepare('SELECT * FROM ' . $wpdb->prefix . 'twitter_integration WHERE id="%d"', $id));   
       }
     else {
-	
+	     $row= new stdClass();
 	     $row->id=0;
 		 $row->title = '';
 		 $row->type = 'tweetbutton';

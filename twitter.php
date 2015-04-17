@@ -3,7 +3,7 @@
  * Plugin Name: Widget Twitter
  * Plugin URI: http://web-dorado.com/products/wordpress-twitter-integration-plugin.html
  * Description: The Widget Twitter plugin lets you to fully integrate your WordPress site with your Twitter account.  
- * Version: 1.0.1
+ * Version: 1.0.2
  * Author: http://web-dorado.com/
  * License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
  */

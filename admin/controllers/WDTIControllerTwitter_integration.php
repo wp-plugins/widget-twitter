@@ -28,7 +28,8 @@ class WDTIControllerTwitter_integration {
     $task = ((isset($_POST['task'])) ? esc_html(stripslashes($_POST['task'])) : '');
     $id = ((isset($_POST['current_id'])) ? esc_html(stripslashes($_POST['current_id'])) : 0);
     if (method_exists($this, $task)) {
-      $this->$task($id);
+      check_admin_referer('nonce_wg_twitt', 'nonce_wg_twitt');
+	  $this->$task($id);
     }
     else {
       $this->display();

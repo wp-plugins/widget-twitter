@@ -141,6 +141,7 @@ class WDTIViewTwitter_integration{
           ?>
         </tbody>
       </table>
+	  <?php wp_nonce_field('nonce_wg_twitt', 'nonce_wg_twitt'); ?>
       <input id="task" name="task" type="hidden" value="" />
       <input id="current_id" name="current_id" type="hidden" value="" />
       <input id="asc_or_desc" name="asc_or_desc" type="hidden" value="asc" />
@@ -621,6 +622,7 @@ class WDTIViewTwitter_integration{
 	        <img style="padding-top:50px;max-width:95%" src="<?php echo WD_WDTI_URL."/images/hashtag-box-recommendspreview.png" ?>" />
          </div>
        </div>
+	   <?php wp_nonce_field('nonce_wg_twitt', 'nonce_wg_twitt'); ?>
 	   <input type="hidden" id="current_id" name="current_id" value="<?php echo $row->id; ?>" />
 	   <input type="hidden" id="task"       name="task"       value="" />
 	   <input type="hidden" id="type"       name="type"       value="<?php echo $row->type?>"/>
