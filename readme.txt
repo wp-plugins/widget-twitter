@@ -3,7 +3,7 @@ Contributors: webdorado
 Donate link: http://web-dorado.com/products/wordpress-twitter-integration-plugin.html    
 Tags: twitter, twitter share, twitter share button, twitter button, twitter search , twitter plugin , twitter feed , twitter cards , twitter-followers, twitter sidebar , twitter widget, dynamic twitter widget , twitter tools , twitter list , twitter follow , twitter follow button, twitter post, twitter api, twitter favorites, tweets, wordPress twitter, twitter timeline, twitter shortcode, feed, latest tweets, twitter connect, publish to twitter, twitter badge, follow me, follow us, twitter hashtag,  share buttons, sharebar, sidebar, social, social network, social bookmark, social bookmarking, social media auto publish, social media publishing, social network auto publish, Social Plugins, social profiles, social share, social sidebar, social media    
 Requires at least: 3.0    
-Tested up to: 4.1    
+Tested up to: 4.2    
 Stable tag: 1.0.2    
 License: GPLv2 or later    
 License URI: http://www.gnu.org/licenses/gpl-2.0.html    
