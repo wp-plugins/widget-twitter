@@ -23,7 +23,7 @@ class WDTIControllerWidget extends WP_Widget {
     // Widget Control Settings.
     $control_ops = array('id_base' => 'twitter_integration');
     // Create the widget.
-    $this->WP_Widget('twitter_integration', 'Widget Twitter', $widget_ops, $control_ops);
+    parent::__construct('twitter_integration', 'Widget Twitter', $widget_ops, $control_ops);
     require_once WD_WDTI_DIR . "/admin/models/WDTIModelWidget.php";
     $this->model = new WDTIModelWidget();
 
